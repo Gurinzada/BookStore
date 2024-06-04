@@ -4,7 +4,7 @@ Este projeto tem como objetivo desenvolver um CRUD (Create, Read, Update e Delet
 
 # Funcionalidades
  
-* Crud Pessoa: 
+* CRUD Pessoa e seus respectivos EndPoints: ![CRUDPERSON](assets/PersonCrud.png)
 
 
 # Instruções
