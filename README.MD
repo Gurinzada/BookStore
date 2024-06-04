@@ -14,6 +14,8 @@ Este projeto tem como objetivo desenvolver um CRUD (Create, Read, Update e Delet
 
 * Relação M:N: Implementamos a relação M:N entre Pessoas e Livros
 
+* Tratamento de exceções: Implementação para alguns tratamentos de exceções e adição de uma expressão regular para o uso correto do CEP.
+
 # Documentação com Swagger
  Para entender mais sobre os detalhes da API, temos uma documentação feita com Swagger, e nesta documentação encontramos um material mais detalhado. Basta seguir o tópico das instruções e após iniciar a aplicação, acessar a seguinte url : `http://localhost:8080/swagger-ui/index.html#/` ou `{PORTA QUE VOCÊ ESTA USANDO}/swagger-ui/index.html`
 
