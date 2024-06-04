@@ -52,4 +52,8 @@ public class BookService {
         bookRepository.delete(book);
         return "Livro " + book.getName() + " deletado com sucesso!";
     }
+
+    /*public void deleteAll(){
+        bookRepository.deleteAll();
+    }*/
 }
