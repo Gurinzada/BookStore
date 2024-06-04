@@ -22,6 +22,6 @@ Para utilizar o projeto, siga os passos abaixo:
 
 1. Baixe o projeto: Acesse o repositório do projeto e baixe o código-fonte
 2. Importe no seu IDE: Abra o projeto em seu IDE favorito, como IntelliJ IDEA ou Eclipse.
-3. Configure o application.properties: Certifique-se de que o arquivo [application.properties] esteja configurado com as informações de conexão ao banco de dados e outras configurações necessárias.
+3. Configure o application.properties: Certifique-se de que o arquivo `application.properties` esteja configurado com as informações de conexão ao banco de dados e outras configurações necessárias.
 4. Rode o programa: Execute a aplicação usando seu IDE ou terminal.
 5. Aproveite!
